@@ -12,3 +12,8 @@ menu: main
 Email: bl0058@mix.wvu.edu
 
 Phone-number: 571-435-7622
+
+# Also check out 
+LinkedIn https://www.linkedin.com/in/benfleblanc
+
+Github https://github.com/BenFLeBlanc
