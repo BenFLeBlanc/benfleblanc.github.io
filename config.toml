@@ -33,12 +33,12 @@ enableRobotsTXT = true
   background_color_class = "bg-light-blue"
   recent_posts_number = 3
 
-  [[params.ananke_socials]]
+[[params.ananke_socials]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/benfleblanc/"
-icon = '<img src="themes/ananke/assets/ananke/socials/linkedin.svg" alt="LinkedIn Icon">'
+icon = '<object data="themes/ananke/assets/ananke/socials/linkedin.svg" type="image/svg+xml"></object>'
 
 [[params.ananke_socials]]
 name = "GitHub"
 url = "https://github.com/BenFLeBlanc"
-icon = '<img src="themes/ananke/assets/ananke/socials/github.svg" alt="GitHub Icon">'
+icon = '<object data="themes/ananke/assets/ananke/socials/github.svg" type="image/svg+xml"></object>'
