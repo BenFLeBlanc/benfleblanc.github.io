@@ -33,7 +33,6 @@ enableRobotsTXT = true
   background_color_class = "bg-light-blue"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/benfleblanc/"
-icon = "/images/vecteezy_blue-color-white-background-linkedin-design-logo-sign-symbol_9097186.jpg"
+<a href="https://www.linkedin.com/in/benfleblanc" target="_blank">
+  <img src="/images/vecteezy_blue-color-white-background-linkedin-design-logo-sign-symbol_9097186.jpg" alt="LinkedIn Logo">
+</a>
