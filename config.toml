@@ -36,10 +36,9 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/benfleblanc/"
-icon = <img src=\"/assets/ananke/socials/linkedin.svg\">
+icon = "<img src=\"file:///C:/Users/Ben%20LeBlanc/exampleSite/themes/ananke/assets/ananke/socials/linkedin.svg\">"
 
 [[params.ananke_socials]]
 name = "GitHub"
 url = "https://github.com/BenFLeBlanc"
-icon = <img src=\"/assets/ananke/socials/github.svg\">
-
+icon = "<img src=\"file:///C:/Users/Ben%20LeBlanc/exampleSite/themes/ananke/assets/ananke/socials/github.svg\">"
