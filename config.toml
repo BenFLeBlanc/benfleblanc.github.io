@@ -36,9 +36,4 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/benfleblanc/"
-icon = "<img src=\"/images/linkedin.svg\">"
-
-[[params.ananke_socials]]
-name = "GitHub"
-url = "https://github.com/BenFLeBlanc"
-icon = "<img src=\"/images/github.svg\">"
+icon = "/images/vecteezy_blue-color-white-background-linkedin-design-logo-sign-symbol_9097186.jpg"
